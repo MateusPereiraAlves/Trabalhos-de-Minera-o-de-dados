@@ -1,0 +1,1 @@
+Neste trabalho nós realizamos uma avaliação para ver qual seria o melhor algoritimo para predição na base de dados usando algumas métricas como MSE nós analisamos dois algoritimos e realizamos a decisão de qual e o porque de utilizá-los
