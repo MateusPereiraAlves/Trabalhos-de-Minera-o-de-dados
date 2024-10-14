@@ -1,0 +1,1 @@
+Neste trabalho como na PI 1 nós tratamos uma base de dados porem diferente do último projeto dessa vez os valores faltantes e outliers não foram removidos mas sim transformados, utilizando o algoritmo que utiliza aprendizado supervisionado conhecido como KNN para verificar a proximidades dos dados e prever qual deveria ser o valor que está faltando em determinada linha
